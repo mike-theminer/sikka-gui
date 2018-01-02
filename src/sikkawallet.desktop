@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sikka Wallet
+Comment=Sikka wallet
+Exec=Sikka %U
+Terminal=false
+Type=Application
+Icon=sikka
+MimeType=x-scheme-handler/sikka;
+Categories=Office;Finance;
+Name[en_SG]=sikkawallet
