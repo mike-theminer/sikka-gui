@@ -3,15 +3,12 @@ Dependencies: boost >= 1.58, CMake >= 2.8.6, GCC >=4.7.3, Qt >=5.0
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/valiant1x/intensecoinwallet.git
+git clone https://github.com/mike-theminer/sikka-gui.git
 ```
 
 **2. Update git submodule:**
 
-```
-git submodule update --init --recursive
-git submodule foreach git pull origin master
-```
+no need to do this. 
 
 **3. Build**
 
