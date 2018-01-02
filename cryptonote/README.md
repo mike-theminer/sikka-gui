@@ -1,6 +1,7 @@
-Intense Coin is a cryptocurrency focused on providing a decentralized mechanism of exchange, and anonymity via untraceable and unlinkable transactions.
 
-## Building Intense Coin
+Modified intensecoin core so it can synchronize with sikka network 
+
+## Building
 
 ### On *nix
 
